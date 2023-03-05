@@ -26,7 +26,7 @@ body {
 
 h1, h2 {
   font-family: 'Gabriela', serif;
-  color: #fff;
+  color: #1c1f1d;
 }
 
 h1 {
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: rgb(8, 20, 184);
   text-decoration: none;
 }
 
